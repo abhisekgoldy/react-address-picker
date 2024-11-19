@@ -1,10 +1,14 @@
 {
   "name": "@abhisek_goldy/react-address-picker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhisekgoldy/react-address-picker.git"
   },
   "keywords": [
     "react-address-picker",
